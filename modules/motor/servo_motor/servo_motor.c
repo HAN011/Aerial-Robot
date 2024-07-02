@@ -24,7 +24,7 @@ ServoInstance *ServoInit(Servo_Init_Config_s *Servo_Init_Config)
 }
 
 /**
- * @brief 写入自由角度数值
+ * @brief 写入自由角度数值 1
  *
  * @param Servo_Motor 注册的舵机实例
  * @param S_angle  改变自由模式设定的角度
