@@ -1,0 +1,58 @@
+
+
+OpenDocument="stm32f4xx_hal_spi.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c", Line=1272
+OpenDocument="main.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/Src/main.c", Line=78
+OpenDocument="SEGGER_RTT.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/Middlewares/Third_Party/SEGGER/RTT/SEGGER_RTT.c", Line=473
+OpenDocument="bsp_dwt.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/bsp/dwt/bsp_dwt.c", Line=97
+OpenDocument="bsp_pwm.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/bsp/pwm/bsp_pwm.c", Line=63
+OpenDocument="remote_control.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/modules/remote/remote_control.c", Line=85
+OpenDocument="shoot.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/application/shoot/shoot.c", Line=99
+OpenDocument="gimbal.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/application/gimbal/gimbal.c", Line=0
+OpenDocument="motor_task.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/modules/motor/motor_task.c", Line=0
+OpenDocument="robot_cmd.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/application/cmd/robot_cmd.c", Line=45
+OpenDocument="startup_stm32f407ighx.s", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/Startup/startup_stm32f407ighx.s", Line=50
+OpenDocument="tasks.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/Middlewares/Third_Party/FreeRTOS/Source/tasks.c", Line=3942
+OpenDocument="chassis.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/application/chassis/chassis.c", Line=272
+OpenDocument="bsp_can.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/bsp/can/bsp_can.c", Line=147
+OpenDocument="bmi088.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/modules/BMI088/bmi088.c", Line=34
+OpenDocument="referee_UI.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/modules/referee/referee_UI.c", Line=386
+OpenDocument="buzzer.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/modules/buzzer/buzzer.c", Line=316
+OpenDocument="dji_motor.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/modules/motor/DJImotor/dji_motor.c", Line=126
+OpenDocument="servo_motor.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/modules/motor/servo_motor/servo_motor.c", Line=76
+OpenDocument="stm32f4xx_hal_can.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c", Line=1940
+OpenDocument="gimbal.h", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/application/gimbal/gimbal.h", Line=0
+OpenDocument="SEGGER_RTT_printf.c", FilePath="c:/Users/ROG/Desktop/Omni_Infantry/Middlewares/Third_Party/SEGGER/RTT/SEGGER_RTT_printf.c", Line=113
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=2, w=416, h=396, TabPos=1, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=1, w=698, h=108, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=1, w=416, h=154, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=846, h=457, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x8
+OpenWindow="Global Data", DockArea=RIGHT, x=0, y=0, w=416, h=233, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=0, w=698, h=695, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=RIGHT, x=0, y=2, w=416, h=396, TabPos=0, TopOfStack=1, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=0, y=0, w=1713, h=457, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="500 ms", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="18;0", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="575;0", CodeGraphLegendShown=0, CodeGraphLegendPosition="526;0"
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[100;144;294]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[345;100;104;149]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time"], ColWidths=[100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[510;100;100;100;100;100;110;126;126]
+TableHeader="Global Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Scope"], ColWidths=[100;100;102;100;100;100]
+TableHeader="Source Files", SortCol="File", SortOrder="DESCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[223;100;100;100;100]
+WatchedExpression="friction_l", Window=Watched Data 1
+WatchedExpression="loader", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="referee_info", Window=Watched Data 1
+WatchedExpression="yaw_motor", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="referee_data", Window=Watched Data 1
+WatchedExpression="power", Window=Watched Data 1
+WatchedExpression="vt_lf", Window=Watched Data 1
+WatchedExpression="rc_daemon_instance", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="friction_l->measure.speed_aps", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="shoot_speed", Window=Watched Data 1
+WatchedExpression="data", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="local_heat", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="referee_info", Window=Watched Data 1
+WatchedExpression="derivative", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="shoot_count", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="gimbal_IMU_data", RefreshRate=5, Window=Watched Data 1

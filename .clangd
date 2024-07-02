@@ -1,0 +1,10 @@
+CompileFlags:
+    Add:
+        - -Id:\program files\arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\c++\12.3.1
+        - -Id:\program files\arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\c++\12.3.1\arm-none-eabi
+        - -Id:\program files\arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include\c++\12.3.1\backward
+        - -Id:\program files\arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\12.3.1\include
+        - -Id:\program files\arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi\lib\gcc\arm-none-eabi\12.3.1\include-fixed
+        - -Id:\program files\arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi\arm-none-eabi\include
+    CompilationDatabase: ./build/Debug
+    Compiler: D:\Program Files\arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi\bin\arm-none-eabi-gcc.exe

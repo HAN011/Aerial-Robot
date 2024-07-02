@@ -1,0 +1,59 @@
+
+
+GraphedExpression="((referee_info).ShootData).bullet_speed", Color=#e56a6f
+GraphedExpression="power_data.total_power", Color=#35792b
+GraphedExpression="chassis_cmd_send.vy", Color=#769dda
+GraphedExpression="chassis_cmd_send.vx", Color=#b14f0d
+GraphedExpression="chassis_vx", Color=#b3c38e
+GraphedExpression="chassis_vy", Color=#ab7b05
+OpenDocument="SEGGER_RTT_printf.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/Middlewares/Third_Party/SEGGER/RTT/SEGGER_RTT_printf.c", Line=104
+OpenDocument="main.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/Src/main.c", Line=78
+OpenDocument="robot_cmd.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/application/cmd/robot_cmd.c", Line=674
+OpenDocument="stm32f4xx_hal_spi.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c", Line=1272
+OpenDocument="SEGGER_RTT.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/Middlewares/Third_Party/SEGGER/RTT/SEGGER_RTT.c", Line=473
+OpenDocument="stm32f4xx_hal_can.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c", Line=1557
+OpenDocument="tasks.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/Middlewares/Third_Party/FreeRTOS/Source/tasks.c", Line=2289
+OpenDocument="bsp_pwm.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/bsp/pwm/bsp_pwm.c", Line=65
+OpenDocument="buzzer.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/modules/buzzer/buzzer.c", Line=314
+OpenDocument="power_calc.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/modules/algorithm/power_calc.c", Line=66
+OpenDocument="master_process.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/modules/master_machine/master_process.c", Line=57
+OpenDocument="chassis.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/application/chassis/chassis.c", Line=370
+OpenDocument="list.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/Middlewares/Third_Party/FreeRTOS/Source/list.c", Line=139
+OpenDocument="cmsis_os2.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c", Line=614
+OpenDocument="super_cap.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/modules/super_cap/super_cap.c", Line=2
+OpenDocument="remote_control.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/modules/remote/remote_control.c", Line=101
+OpenDocument="gimbal.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/application/gimbal/gimbal.c", Line=6
+OpenDocument="daemon.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/modules/daemon/daemon.c", Line=16
+OpenDocument="referee_UI.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/modules/referee/referee_UI.c", Line=0
+OpenDocument="shoot.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/application/shoot/shoot.c", Line=0
+OpenDocument="bsp_dwt.c", FilePath="d:/robomaster/2024_elctricity/2024_Omni-Infantry-main/bsp/dwt/bsp_dwt.c", Line=78
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=2, w=416, h=365, TabPos=1, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=1, w=698, h=443, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=1, w=416, h=166, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Memory 1", DockArea=BOTTOM, x=1, y=0, w=854, h=457, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, EditorAddress=0x8
+OpenWindow="Global Data", DockArea=RIGHT, x=0, y=0, w=416, h=252, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=0, w=698, h=360, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=RIGHT, x=0, y=2, w=416, h=365, TabPos=0, TopOfStack=1, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=0, y=0, w=1705, h=457, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="1 s / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="30;0", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="1478;0", CodeGraphLegendShown=0, CodeGraphLegendPosition="1494;0"
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Global Data", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Location";"Size";"Type";"Scope"], ColWidths=[100;100;102;100;100;366]
+TableHeader="Source Files", SortCol="File", SortOrder="DESCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[223;100;100;100;1318]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" ((referee_info).ShootData).bullet_speed";" power_data.total_power";" chassis_cmd_send.vy";" chassis_cmd_send.vx";" chassis_vx";" chassis_vy"], ColWidths=[100;100;100;100;100;100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[510;100;100;100;100;100;110;126;126]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[100;144;294]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[345;100;104;123]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;340]
+WatchedExpression="motor_lf", Window=Watched Data 1
+WatchedExpression="referee_info", Window=Watched Data 1
+WatchedExpression="pitch_motor", Window=Watched Data 1
+WatchedExpression="cap", Window=Watched Data 1
+WatchedExpression="yaw_motor", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="friction_l", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="power_data.total_power", Window=Watched Data 1
+WatchedExpression="FollowMode_PID", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="chassis_cmd_send.vx", Window=Watched Data 1
+WatchedExpression="remote_work_condition", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="rc_daemon_instance", RefreshRate=5, Window=Watched Data 1

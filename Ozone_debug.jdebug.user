@@ -1,0 +1,38 @@
+
+
+OpenDocument="robot_task.h", FilePath="d:/documents/github/Omni_Infantry/application/robot_task.h", Line=75
+OpenDocument="ins_task.c", FilePath="d:/documents/github/Omni_Infantry/modules/imu/ins_task.c", Line=90
+OpenDocument="main.c", FilePath="d:/documents/github/Omni_Infantry/Src/main.c", Line=79
+OpenDocument="SEGGER_RTT_printf.c", FilePath="d:/documents/github/Omni_Infantry/Middlewares/Third_Party/SEGGER/RTT/SEGGER_RTT_printf.c", Line=388
+OpenDocument="startup_stm32f407ighx.s", FilePath="d:/documents/github/Omni_Infantry/Startup/startup_stm32f407ighx.s", Line=53
+OpenDocument="cmsis_os2.c", FilePath="d:/documents/github/Omni_Infantry/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.c", Line=612
+OpenDocument="bsp_dwt.c", FilePath="d:/documents/github/Omni_Infantry/bsp/dwt/bsp_dwt.c", Line=31
+OpenDocument="dji_motor.c", FilePath="d:/documents/github/Omni_Infantry/modules/motor/DJImotor/dji_motor.c", Line=60
+OpenDocument="bsp_can.c", FilePath="d:/documents/github/Omni_Infantry/bsp/can/bsp_can.c", Line=57
+OpenDocument="bsp_pwm.c", FilePath="d:/documents/github/Omni_Infantry/bsp/pwm/bsp_pwm.c", Line=68
+OpenDocument="stm32f4xx_it.c", FilePath="d:/documents/github/Omni_Infantry/Src/stm32f4xx_it.c", Line=102
+OpenDocument="buzzer.c", FilePath="d:/documents/github/Omni_Infantry/modules/buzzer/buzzer.c", Line=307
+OpenDocument="stm32f4xx_hal_spi.c", FilePath="d:/documents/github/Omni_Infantry/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c", Line=1283
+OpenDocument="SEGGER_RTT.c", FilePath="d:/documents/github/Omni_Infantry/Middlewares/Third_Party/SEGGER/RTT/SEGGER_RTT.c", Line=1102
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=1, w=396, h=274, FilterBarShown=1, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=514, h=253, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=0, w=396, h=289, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=RIGHT, x=0, y=1, w=514, h=310, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=BOTTOM, x=1, y=0, w=1344, h=323, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=1, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="2 s / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=1, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="0;0", DataGraphShowNamesAtCursor=0, PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="1146;-1", CodeGraphLegendShown=0, CodeGraphLegendPosition="1160;0"
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=309, h=323, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+SmartViewPlugin="", Page="", Toolbar="Hidden", Window="SmartView 1"
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[239;100;100;100;763]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time"], ColWidths=[100;100]
+TableHeader="Data Sampling Setup", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[341;100;100;100;100;100;100;107;107]
+TableHeader="Power Sampling", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Refresh"], ColWidths=[206;176;100]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[200;100;100;780]
+WatchedExpression="sender_assignment", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="pitch_motor", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="yaw_motor", Window=Watched Data 1
+WatchedExpression="gimbal_IMU_data", Window=Watched Data 1
+WatchedExpression="friction_l", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="loader", Window=Watched Data 1
+WatchedExpression="config", Window=Watched Data 1
